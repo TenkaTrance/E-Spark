@@ -1,2 +1,2 @@
 # E-Spark
-www.tenkatrance.dk
+www.tenkatrance.com
